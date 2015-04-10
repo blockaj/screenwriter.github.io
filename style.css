@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Mono);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,600);
+
+body {
+	background-color: #EDEDED;
+}
+header {
+	height: 150px;
+}
+.title {
+	margin-top: 2em;
+}
+.title a {
+	text-decoration: none;
+	color: #000000;
+}
+h1 {
+	font-size: 4em;
+	font-family: "PT Mono";
+	text-align: center;
+}
+.menubar {
+	font-family: "Open Sans";
+	font-size: 1.5em;
+	text-align: center;
+}
+h2 {
+	font-size: 2em;
+	font-family: "PT Mono";
+}
+.main-body {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.main-body ul {
+	list-style-type: item;
+	font-family: "Open Sans";
+	margin-top: 10px;
+	margin-left: 50px;
+}
+ul li {
+	margin: 5px 0;
+}
